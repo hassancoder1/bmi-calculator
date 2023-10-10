@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A simple Body Mass Index (BMI) calculator implemented in React.
+A simple Body Mass Index (BMI) calculator is implemented in React.
 
 ## Table of Contents
 
@@ -9,7 +9,6 @@ A simple Body Mass Index (BMI) calculator implemented in React.
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -32,12 +31,9 @@ This project is a BMI calculator built using React. BMI (Body Mass Index) is a n
 ## Technologies
 
 - React
+- HTML
 - CSS
 
 ## Contributing
 
-If you'd like to contribute to this project, feel free to fork this repository and submit a pull request. Please follow the [Contributor Covenant](CODE_OF_CONDUCT.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+If you'd like to contribute to this project, feel free to fork this repository and submit a pull request.
